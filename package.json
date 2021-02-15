@@ -4,7 +4,7 @@
   "description": " a command-line RPG in which a user battles against a series of enemies whose health and stats can be sustained by a potion",
   "main": "index.js",
   "scripts": {
-    "test": "merlin"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/Govepitr/jest-another-RPG/issues"
   },
-  "homepage": "https://github.com/Govepitr/jest-another-RPG#readme"
+  "homepage": "https://github.com/Govepitr/jest-another-RPG#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
 }
