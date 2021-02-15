@@ -1,0 +1,26 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": " a command-line RPG in which a user battles against a series of enemies whose health and stats can be sustained by a potion",
+  "main": "index.js",
+  "scripts": {
+    "test": "merlin"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Govepitr/jest-another-RPG.git"
+  },
+  "keywords": [
+    "RPG",
+    "cmd",
+    "commandline",
+    "goblins",
+    "potions"
+  ],
+  "author": "Dan Arbelo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Govepitr/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/Govepitr/jest-another-RPG#readme"
+}
