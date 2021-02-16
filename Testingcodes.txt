@@ -1,0 +1,2 @@
+npm run test Player
+npm run test Potion
