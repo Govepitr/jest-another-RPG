@@ -1,2 +1,3 @@
 npm run test Player
 npm run test Potion
+npm run test Character
